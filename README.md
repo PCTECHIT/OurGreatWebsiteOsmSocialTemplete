@@ -4,7 +4,8 @@ Download all the files and copy the code in the file and div tag in your html fi
 
 Note: Keep in mind that css should not be another style code for img tag This code will not work in your file.
 
-our website : http://pctechit.great-site.net
+Visit Our Website : http://pctechit.great-site.net
 
-Please Support Us Poor Youtube and Blog Owner.
+Please Support Poor Youtube and Blog Owner PC Tech IT.
+
 Thanks
