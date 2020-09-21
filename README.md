@@ -1,5 +1,5 @@
 # OurGreatWebsiteOsmSocialTemplete
-# pctechit.great-site.net
+# http://pctechit.great-site.net
 In This Repository we share html and css for our website Awesome Social Template or  Bar for free. please change href "#" for full customization and change.
 Download all the files and copy the code in the file and div tag in your html file and you can paste it where you want.
 
